@@ -1,0 +1,11 @@
+D:\PYTHON\Sistema\Snake\Snake\Snake\Snake\bin\Debug\Snake.exe.config
+D:\PYTHON\Sistema\Snake\Snake\Snake\Snake\bin\Debug\Snake.exe
+D:\PYTHON\Sistema\Snake\Snake\Snake\Snake\bin\Debug\Snake.pdb
+D:\PYTHON\Sistema\Snake\Snake\Snake\Snake\obj\Debug\Snake.csproj.AssemblyReference.cache
+D:\PYTHON\Sistema\Snake\Snake\Snake\Snake\obj\Debug\Snake.csproj.SuggestedBindingRedirects.cache
+D:\PYTHON\Sistema\Snake\Snake\Snake\Snake\obj\Debug\Snake.Form1.resources
+D:\PYTHON\Sistema\Snake\Snake\Snake\Snake\obj\Debug\Snake.Properties.Resources.resources
+D:\PYTHON\Sistema\Snake\Snake\Snake\Snake\obj\Debug\Snake.csproj.GenerateResource.cache
+D:\PYTHON\Sistema\Snake\Snake\Snake\Snake\obj\Debug\Snake.csproj.CoreCompileInputs.cache
+D:\PYTHON\Sistema\Snake\Snake\Snake\Snake\obj\Debug\Snake.exe
+D:\PYTHON\Sistema\Snake\Snake\Snake\Snake\obj\Debug\Snake.pdb
